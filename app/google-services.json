@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116201979080",
+    "project_id": "firebasics-8b4ee",
+    "storage_bucket": "firebasics-8b4ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116201979080:android:867d1102b5cdf67fb5f9fd",
+        "android_client_info": {
+          "package_name": "com.firstproject.firebasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRlA2jIYUefNDjs0Pz0tNbOvJqoNaSKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
